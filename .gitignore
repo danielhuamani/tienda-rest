@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+recursos
+frontend/node_modules/
